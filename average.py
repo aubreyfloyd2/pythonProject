@@ -2,7 +2,7 @@
 # GitHub username: aubreyfloyd2
 # Date: 1/18/2023
 # Description: Asks the user for five numbers
-#              and then outputs the average of the five numbers
+#              and then outputs the average of the five numbers.
 print("Please enter five numbers.")
 num_1 = float(input())
 num_2 = float(input())
